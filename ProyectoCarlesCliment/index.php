@@ -15,6 +15,7 @@
 
     ?>
     <main>
+        <p>Esto es una línea de prueba</p>
         <label for="nombreyapellido">Nombre y Apellidos:</label>
         <input type="text" name="nombreyapellido" id="nombreyapellido">
         <br>
