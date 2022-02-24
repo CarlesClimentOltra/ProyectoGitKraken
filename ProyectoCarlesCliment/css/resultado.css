@@ -1,0 +1,164 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    width: 90%;
+    display: block;
+    margin: 0 auto; 
+    margin-top: 2%;
+}
+
+header {
+
+    margin-bottom: 50px;
+    color: white;
+    background: url(../imagenes/logo.png) no-repeat left, url(../imagenes/logo.png) no-repeat right;
+    border: 2px solid;
+    box-shadow: 10px 10px 20px  rgb(204, 63, 197);
+}
+
+header h1 {
+    text-align: center; 
+    
+    width: 80%px;  
+    color: rgb(255, 255, 255);
+    background-color: rgb(175, 60, 131);
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 40px;
+    padding-bottom: 41px;
+    
+}
+
+main #nombreyapellidofinal {
+
+    text-align: center;
+    color: white;
+    background-color: rgb(175, 60, 131);
+    padding: 10px 0px 10px 0px;
+    border: solid 3px white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px rgb(175, 60, 131);
+
+}
+
+main #videojuegosfinal {
+
+    text-align: center;
+    color: white;
+    background-color: rgb(175, 60, 131);
+    padding: 10px 0px 10px 0px;
+    border: solid 3px white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px rgb(175, 60, 131);
+    margin-top: 20px;
+
+}
+
+main #videojuegostitulo {
+
+    margin-bottom: 20px;
+
+}
+
+main #plataformafinal {
+
+    text-align: center;
+    color: white;
+    background-color: rgb(175, 60, 131);
+    padding: 10px 0px 10px 0px;
+    border: solid 3px white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px rgb(175, 60, 131);
+    margin-top: 20px;
+
+}
+
+main #plataformatitulo {
+
+    margin-bottom: 20px;
+
+}
+
+main #sociofinal {
+
+    text-align: center;
+    color: white;
+    background-color: rgb(175, 60, 131);
+    padding: 10px 0px 10px 0px;
+    border: solid 3px white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px rgb(175, 60, 131);
+    margin-top: 20px;
+
+}
+
+main #sociotitulo {
+    margin-bottom: 20px;
+}
+
+main #suscripcionfinal {
+
+    text-align: center;
+    color: white;
+    background-color: rgb(175, 60, 131);
+    padding: 10px 0px 10px 0px;
+    border: solid 3px white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px rgb(175, 60, 131);
+    margin-top: 20px;
+    position: relative;
+    display: inline-block;
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    
+
+}
+
+main #suscripciontitulo{
+    position: absolute;
+    
+    top: 73.5%;
+    left: 47%;
+    color: white;
+}
+
+main #valoracionfinal {
+
+    text-align: center;
+    color: white;
+    background-color: rgb(175, 60, 131);
+    padding: 10px 0px 10px 0px;
+    border: solid 3px white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px rgb(175, 60, 131);
+    margin-top: 20px;
+
+}
+
+main #valoraciontitulo {
+    margin-bottom: 20px;
+}
+
+main #opinionfinal {
+
+    text-align: center;
+    color: white;
+    background-color: rgb(175, 60, 131);
+    padding: 10px 0px 10px 0px;
+    border: solid 3px white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px rgb(175, 60, 131);
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+main #opiniontitulo {
+    margin-bottom: 20px;
+}
